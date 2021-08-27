@@ -1,2 +1,2 @@
 # Garage
-Classic Garage task, given as an exercise in a academic OO programing course.
+Classic Garage task, given as an exercise in an academic OO programing course.
